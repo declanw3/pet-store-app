@@ -1,4 +1,4 @@
-# pet-store-app
+# Pet Store App
 
 This program outputs a list of available Pets from [https://petstore.swagger.io/](https://petstore.swagger.io/) - GET /pet/findByStatus API endpoint
 
